@@ -57,7 +57,7 @@ You can contact us via:
 <br/>
 
 <details>
-<summary><a name="related"><strong>4. Related Articles</strong></a></summary>
+<summary><a name="related"><strong>4. Related Links</strong></a></summary>
 <br/>
 <a href="Link to notbook Part1">Title</a><br/>
 <a href="Link to notebook Part 2">title 2</a><br/>
