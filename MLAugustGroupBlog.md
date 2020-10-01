@@ -20,7 +20,7 @@ Descriptions <b>"Descriptions "</b> Descriptions <b>"Descriptions"</b> - <b>"Des
 Model<b>Bumps</b>Description<ins>ML<ins/> and <ins>ML<ins/> <em>(Figure Number)</em>.
 
 <p align="center">
- <img src="Image link" alt="image"/>
+ <img src="https://user-images.githubusercontent.com/69084008/94839134-80aff300-040e-11eb-9a83-a1e8cb8099f0.png" alt="image"/>
  <br/>
     <em>Figure Number and Title</em>
 </p>
@@ -31,7 +31,7 @@ Once you completed the set-up, you'll be asked to specify a 6-digit PIN, which w
 Should the login fail despite the successful setup of the fingerprint or face recognition you'll be presented with <em>Figure 2</em>.
 
 <p align="center">
- <img src="Image link" alt="image"/>
+ <img src="https://user-images.githubusercontent.com/69084008/94839267-a806c000-040e-11eb-81ca-f52756bcb017.png" alt="image"/>
  <br/>
     <em>Figure Number and Title</em>
 </p>
