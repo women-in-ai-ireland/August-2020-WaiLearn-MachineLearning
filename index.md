@@ -25,7 +25,10 @@ Our shared colab notebook can be found <a href="https://colab.research.google.co
 <a name="our"><h3>__2. Our Contirbution__</h3></a>
 <ul>
  <li><b>Pre-processing the Data Further</b></li>
- <p>As a small improvement, we replaced the One-hot encoder for the Categorical variables with Numerical encoding as the assessment coding being graded from Low to High, coding numerically added meaningful information.</p>
+ <p>As a small improvement, we replaced the One-hot encoder for the Categorical variables with Numerical encoding as the assessment coding being graded from Low to High, coding numerically added meaningful information. To view the data attributes, see <a href="https://archive.ics.uci.edu/ml/datasets/seismic-bumps">here.</a></p>
+ <ul>
+  <li></li>
+ </ul>
 </ul>
 
 <ins>All biometrical data you provide will be stored locally and encrypted on your device and will not be synchronized anywhere.<ins/>
