@@ -14,7 +14,7 @@ Based on the data exploration and performance analysis carried out by Nabanita, 
 </p>
 <br/>
 
-##<a name="pre">__1. Premise__</a><br/>
+<a name="pre"><h2>__1. Premise__</h2></a><br/>
 Predicting Positive here is predicting <em>“ the possibility of hazardous situation occurrence, where an appropriate supervision service can reduce a risk of rockburst (e.g. by distressing shooting) or withdraw workers from the threatened area. Good prediction of increased seismic activity is therefore a matter of great practical importance. “</em><br/>
 
 <b>We wouldn’t want to send miners into a mine with a substandard model!</b>
