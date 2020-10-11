@@ -51,6 +51,11 @@ seismoacoustic method;</li>
 
 
 <a name="con"><h3>__3. In Conclusion__</h3></a>
+<ol>
+ <li>Training any model on the augmented dataset (SMOTE) improves the model performance significantly.</li>
+ <li>XGBoost wins by a small margin, based on shallow Decision Trees.</li>
+ <li>The RandomForestClassifier and Decision Tree Classifier are perform well, although not with the GridSearchCV Optimised version! It seems like optimising against the SMOTE dataset can be counter-productive and choosing values like max_leaf_nodes=10 intuitively adapted to a small dataset works here.</li>
+</ol>
 
 <a name="learnt"><h3>__4. What we have Learnt__</h3></a>
 
