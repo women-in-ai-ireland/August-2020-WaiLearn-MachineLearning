@@ -3,8 +3,10 @@
 
 ## Contents:
 1. [Premise](#pre)<br/>
-1. [Our Contirbution](#our)<br/>
-3. [Contributors](#contributor)<br/>
+2. [Our Contirbution](#our)<br/>
+3. [In Conclusion](#con)<br/>
+4. [Refrences](#ref)<br/>
+5. [Contributors](#contributor)<br/>
 
 <br/>
 <p>We are immensely grateful to  <a href="https://www.linkedin.com/in/nabanita-roy/">Nabanita Roy</a> for pointing out this very interesting dataset,her previous work formed the base for which we were able to build on, you can have a look at her work here (<a href="https://towardsdatascience.com/predicting-hazardous-seismic-bumps-using-supervised-classification-algorithms-part-i-2c5d21f379bc">Part I</a> and <a href="https://towardsdatascience.com/predicting-hazardous-seismic-bumps-part-ii-training-supervised-classifier-models-and-8b9104b611b0">Part II</a>)!<br/>
@@ -46,8 +48,12 @@ seismoacoustic method;</li>
 <br/>
 </ul>
 
+<a name="con"><h3>__3. In Conclusion__</h3></a>
 
-<a name="contributor"><h3>__3. Contributors__</h3></a>
+<a name="ref"><h3>__4. References__</h3></a>
+
+
+<a name="contributor"><h3>__5. Contributors__</h3></a>
 <ul>
   <li><a href="https://www.linkedin.com/in/catherine-lalanne-85b5ba/">Catherine Lalanne</a></li>
   <li><a href="https://www.linkedin.com/in/heejin-yoon-429837190/">Heejin Yoon</a></li>
