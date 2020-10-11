@@ -24,7 +24,7 @@ On the other hand, Precision for the best performing model is only 0.67, which m
 Our shared colab notebook can be found <a href="https://colab.research.google.com/drive/1fIvMom1iQUPN7K_ODtnq9Kb41ZfKH_xK#scrollTo=_25QD437NyrA"><em>here!</em></a>
 
 
-##<a name="our">__2. Our Contirbution__</a><br/>
+##<a name="our"><h3>__2. Our Contirbution__</h3></a><br/>
 
 <ins>All biometrical data you provide will be stored locally and encrypted on your device and will not be synchronized anywhere.<ins/>
 
