@@ -72,7 +72,7 @@ seismoacoustic method;</li>
 
 <a name="learnt"><h3>__4. What we have Learnt__</h3></a>
 
-<a name="ref"><h3>__5. Refernces__</h3></a>
+<a name="ref"><h3>__5. References__</h3></a>
 <ol>
  <li>Introduction to Scikit Learn:<a href="https://scikit-learn.org/stable/supervised_learning.html#supervised-learning">Understanding Classification Models for Supervised Machine Learning</a></li>
  <li><a href="https://medium.com/@MohammedS/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b">To Understand Model Performance Metrics</a></li>
