@@ -34,6 +34,7 @@ seismoacoustic method;</li>
   <li><b>Shift</b>: information about type of a shift (W - coal-getting, N -preparation shift);</li>
  </ul>
  <li><b>Checking the Correlations between Features and the target</b></li>
+ <br/>
  <p align="center">
  <img src="https://user-images.githubusercontent.com/69084008/95680839-409dfc80-0bd4-11eb-9dd7-3cf5567a2786.png" alt="image"/>
  <br/>
