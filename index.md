@@ -7,7 +7,7 @@
 3. [Contributors](#contact)<br/>
 4. [Related Links](#related)<br/>
 
-<p>We are immensely grateful to  <a href="https://www.linkedin.com/in/nabanita-roy/">Nabanita Roy</a> for pointing out this very interesting dataset,her previous work formed the base for which we were able to build on, you can have a look here (<a href="https://www.linkedin.com/in/nabanita-roy/">Part 1</a> and <a href="https://www.linkedin.com/in/nabanita-roy/">Part 2</a>)!
+<p>We are immensely grateful to  <a href="https://www.linkedin.com/in/nabanita-roy/">Nabanita Roy</a> for pointing out this very interesting dataset,her previous work formed the base for which we were able to build on, you can have a look here (<a href="https://www.linkedin.com/in/nabanita-roy/">Part 1</a> and <a href="https://www.linkedin.com/in/nabanita-roy/">Part 2</a>)!<br/>
 the Data Exploration, Data Preparation and first models and performance analysis as Medium articles with a linked notebook!
 The performance of those first models was very low for Recall: 0.06 the best performing model SVM with the raw dataset: this means that out of all the Actual Positive (hazardous) shifts, only 6% of the shifts have been predicted as Positive.
 </p>
