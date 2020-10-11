@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+<h1> Predicting Hazardous Seismic: Evaluating Scikit Learn Machine Learning models</h1>
+<em>A newbie evaluation on trying out new Machine Learning models for Classification and Data Augmentation to support better results.</em>
 
-You can use the [editor on GitHub](https://github.com/women-in-ai-ireland/August-2020-WaiLearn-MachineLearning/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Contents:
+1. [Data processing](#data)<br/>
+2. [Modelling](#setup)<br/>
+3. [Contact](#contact)<br/>
+4. [Related Links](#related)<br/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<a name="datas">__1. Data processing__</a><br/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<ins>All biometrical data you provide will be stored locally and encrypted on your device and will not be synchronized anywhere.<ins/>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<a name="datas">__2. Modelling__</a><br/>
 
-- Bulleted
-- List
+Descriptions <b>"Descriptions "</b> Descriptions <b>"Descriptions"</b> - <b>"Descriptions "</b> - <b>"Sign-in options"</b> Model <b>ML</b>. 
+Model<b>Bumps</b>Description<ins>ML<ins/> and <ins>ML<ins/> <em>(Figure Number)</em>.
 
-1. Numbered
-2. List
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/69084008/94839134-80aff300-040e-11eb-9a83-a1e8cb8099f0.png" alt="image"/>
+ <br/>
+    <em>Figure Number and Title</em>
+</p>
+<br/>
 
-**Bold** and _Italic_ and `Code` text
+Select the desired authentication method and follow the instructions.
+Once you completed the set-up, you'll be asked to specify a 6-digit PIN, which will serve as an additional authentication method. 
+Should the login fail despite the successful setup of the fingerprint or face recognition you'll be presented with <em>Figure 2</em>.
 
-[Link](url) and ![Image](src)
-```
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/69084008/94839267-a806c000-040e-11eb-81ca-f52756bcb017.png" alt="image"/>
+ <br/>
+    <em>Figure Number and Title</em>
+</p>
+<br/>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<ol>
+  <li>listed item 1</li>
+  <li>listed item 1</li>
+  <li>listed item 1</li>
+  <li>listed item 1</li>
+  <li>listed item 1</li>
+</ol>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/women-in-ai-ireland/August-2020-WaiLearn-MachineLearning/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<a name="contact">__3. Contacts__</a>
 
-### Support or Contact
+You can contact us via:
+<ul>
+  <li>Catherine-Email address</li>
+  <li>Heejin- Email Address</li>
+  <li>Luciana-Email Adress</li>
+</ul>
+<br/>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<details>
+<summary><a name="related"><strong>4. Related Links</strong></a></summary>
+<br/>
+<a href="Link to notbook Part1">Title</a><br/>
+<a href="Link to notebook Part 2">title 2</a><br/>
+</details>
