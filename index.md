@@ -3,7 +3,7 @@
 
 ## Contents:
 1. [Premise](#pre)<br/>
-1. [Data processing](#data)<br/>
+1. [Our Contirbution](#our)<br/>
 2. [Modelling](#setup)<br/>
 3. [Contributors](#contact)<br/>
 4. [Related Links](#related)<br/>
@@ -24,7 +24,7 @@ On the other hand, Precision for the best performing model is only 0.67, which m
 Our shared colab notebook can be found <a href="https://colab.research.google.com/drive/1fIvMom1iQUPN7K_ODtnq9Kb41ZfKH_xK#scrollTo=_25QD437NyrA"><em>here!</em></a>
 
 
-<a name="data">__1. Data processing__</a><br/>
+<a name="our">__2. Our Contirbution__</a><br/>
 
 <ins>All biometrical data you provide will be stored locally and encrypted on your device and will not be synchronized anywhere.<ins/>
 
