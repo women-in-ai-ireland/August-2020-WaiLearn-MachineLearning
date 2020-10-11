@@ -41,7 +41,7 @@ seismoacoustic method;</li>
 <ul>
  <li><b>Explanatory Data Analysis: Checking the Correlations between Features and the Target</b></li>
 </ul>
- <p> To depict the correlation of final features to the Target (Class), a  heatmap was implemented <em>(shown in Figure 1)</em>:
+ <p> To depict the correlation of final features to the Target (Class), a  heatmap was implemented <em>(shown in Figure 1)</em>:</p>
  <br/>
  <p align="center">
  <img src="https://user-images.githubusercontent.com/69084008/95680839-409dfc80-0bd4-11eb-9dd7-3cf5567a2786.png" alt="image"/>
