@@ -2,6 +2,7 @@
 <em>A newbie evaluation on trying out new Machine Learning models for Classification and Data Augmentation to support better results.</em>
 
 ## Contents:
+1. [Premise](#pre)<br/>
 1. [Data processing](#data)<br/>
 2. [Modelling](#setup)<br/>
 3. [Contributors](#contact)<br/>
@@ -11,8 +12,19 @@
  
 Based on the data exploration and performance analysis carried out by Nabanita, the performance of the previous models were very low for the <b>recall metric</b> having just a 0.06 score for the best performing model SVM. This behaviour resulted in the conclusion that out of all the Actual Positive (hazardous) shifts, only 6% of the shifts have been predicted as Positive. Our focus was on improving this.
 </p>
+<br/>
 
-<a name="datas">__1. Data processing__</a><br/>
+<a name="pre">__1. Premise__</a><br/>
+Predicting Positive here is predicting <em>“ the possibility of hazardous situation occurrence, [where] an appropriate supervision service can reduce a risk of rockburst (e.g. by distressing shooting) or withdraw workers from the threatened area. Good prediction of increased seismic activity is therefore a matter of great practical importance. “</em><br/>
+
+<b>We wouldn’t want to send miners into a mine with a substandard model!</b>
+
+On the other hand, Precision for the best performing model is only 0.67, which means that out of all the shifts predicted as hazardous, (1 - 0.67) = 23% were actually low risk, which would mean a non insignificant number of shifts where miners may have been told to stay home, and thus a lower productivity.  
+
+Our shared colab notebook can be found <a href="https://colab.research.google.com/drive/1fIvMom1iQUPN7K_ODtnq9Kb41ZfKH_xK#scrollTo=_25QD437NyrA"><em>here!</em></a>
+
+
+<a name="data">__1. Data processing__</a><br/>
 
 <ins>All biometrical data you provide will be stored locally and encrypted on your device and will not be synchronized anywhere.<ins/>
 
