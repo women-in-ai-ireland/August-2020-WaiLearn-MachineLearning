@@ -32,7 +32,9 @@ Our shared colab notebook can be found <a href="https://colab.research.google.co
   <li><b>Seismoacoustic</b>: result of shift seismic hazard assessment in the mine working obtained by the
 seismoacoustic method;</li>
   <li><b>Shift</b>: information about type of a shift (W - coal-getting, N -preparation shift);</li>
- </ul><br/>
+ </ul>
+ <p><ins>The encoding of these attributes was implemented by a simple mapping of the known values as seen in line <b>'put line number showing numerical encoding'</b>, this encoding allowed for easier interpretability as we will see later.<ins/></p>
+ <br/>
  <li><b>Checking the Correlations between Features and the target</b></li>
  <br/>
  <p align="center">
@@ -42,16 +44,6 @@ seismoacoustic method;</li>
 </p>
 <br/>
 </ul>
-
-<ins>The encoding of these attributes was implemented by a simple mapping of the known values as seen in line <b>'put line number showing numerical encoding'</b>, this encoding allowed for easier interpretability as we will see later.<ins/>
-
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/69084008/94839134-80aff300-040e-11eb-9a83-a1e8cb8099f0.png" alt="image"/>
- <br/>
-    <em>Figure Number and Title</em>
-</p>
-<br/>
 
 
 <a name="contributor"><h3>__3. Contributors__</h3></a>
