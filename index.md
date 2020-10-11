@@ -48,6 +48,7 @@ seismoacoustic method;</li>
  </p>
  <br/>
  <li><b>Augment data using Synthetic Minority Oversampling Technique (SMOTE).</b></li>
+</ul>
  <p>The original data has a lot more Class 0 than Class 1 points which is obvious in the data visualisations and is likely to impact the performance of all models. As suggested by  <a href="https://www.linkedin.com/in/nabanita-roy/">Nabanita Roy</a> , we tried the Synthetic Minority Oversampling Technique (SMOTE) oversampling technique as seen in line <b>'put line number showing numerical encoding'</b> of our <a href="https://colab.research.google.com/drive/1fIvMom1iQUPN7K_ODtnq9Kb41ZfKH_xK#scrollTo=_25QD437NyrA"><em>colab notebook</em></a>.</p>
  <br/>
  <p align="center">
@@ -62,8 +63,6 @@ seismoacoustic method;</li>
     <em>Figure 3: Resampled dataset shape Counter({0: 1931, 1: 1931})</em>
  </p>
  <p>Interestingly, for discrete features like nBumps (the number of seismic bumps recorded within the previous shift), new rows have some non integers values!</p>
-</ul>
-
 
 ### <a name="con">3. In Conclusion</a><br/>
 <ol>
