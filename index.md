@@ -31,16 +31,12 @@ Our shared colab notebook can be found <a href="https://colab.research.google.co
    method (<b>a - lack of hazard, b - low hazard, c - high hazard, d - danger state</b>);</li>
   <li><b>Seismoacoustic</b>: result of shift seismic hazard assessment in the mine working obtained by the
 seismoacoustic method;</li>
-  <li><b>Shift</b>: information about type of a shift (W - coal-getting, N -preparation shift);</li>
-<p><ins>The encoding of these attributes was implemented by a simple mapping of the known values as seen in line <b>'put line number showing numerical encoding'</b>, this encoding allowed for easier interpretability as we will see later.</ins></p>
+  <li><b>Shift</b>: information about type of a shift (W - coal-getting, N -preparation shift);</l
  </ul>
 </ul>
 
-<ins>All biometrical data you provide will be stored locally and encrypted on your device and will not be synchronized anywhere.<ins/>
+<ins>The encoding of these attributes was implemented by a simple mapping of the known values as seen in line <b>'put line number showing numerical encoding'</b>, this encoding allowed for easier interpretability as we will see later.<ins/>
 
-
-Descriptions <b>"Descriptions "</b> Descriptions <b>"Descriptions"</b> - <b>"Descriptions "</b> - <b>"Sign-in options"</b> Model <b>ML</b>. 
-Model<b>Bumps</b>Description<ins>ML<ins/> and <ins>ML<ins/> <em>(Figure Number)</em>.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/69084008/94839134-80aff300-040e-11eb-9a83-a1e8cb8099f0.png" alt="image"/>
@@ -48,25 +44,6 @@ Model<b>Bumps</b>Description<ins>ML<ins/> and <ins>ML<ins/> <em>(Figure Number)<
     <em>Figure Number and Title</em>
 </p>
 <br/>
-
-Select the desired authentication method and follow the instructions.
-Once you completed the set-up, you'll be asked to specify a 6-digit PIN, which will serve as an additional authentication method. 
-Should the login fail despite the successful setup of the fingerprint or face recognition you'll be presented with <em>Figure 2</em>.
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/69084008/94839267-a806c000-040e-11eb-81ca-f52756bcb017.png" alt="image"/>
- <br/>
-    <em>Figure Number and Title</em>
-</p>
-<br/>
-
-<ol>
-  <li>listed item 1</li>
-  <li>listed item 1</li>
-  <li>listed item 1</li>
-  <li>listed item 1</li>
-  <li>listed item 1</li>
-</ol>
 
 
 <a name="contact"><h3>__3. Contributors__</h3></a>
