@@ -65,13 +65,12 @@ Should the login fail despite the successful setup of the fingerprint or face re
 </ol>
 
 
-<a name="contact">__3. Contacts__</a>
-
+<a name="contact"><h3>__3. Contributors__</h3></a>
 You can contact us via:
 <ul>
-  <li>Catherine-Email address</li>
-  <li>Heejin- Email Address</li>
-  <li>Luciana-Email Adress</li>
+  <li><a href="Cath709@gmail.com">Catherine Lalanne</a></li>
+  <li><a href="hxxjxn65@gmail.com">Heejin Yoon</a></li>
+  <li><a href="Omotolaniazubuike@gmail.com">Luciana Azubuike</a></li>
 </ul>
 <br/>
 
