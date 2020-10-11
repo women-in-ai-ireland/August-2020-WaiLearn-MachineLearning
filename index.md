@@ -66,8 +66,7 @@ seismoacoustic method;</li>
  </p>
  <p>Interestingly, for discrete features like nBumps (the number of seismic bumps recorded within the previous shift), new rows have some non integers values!</p><br/>
 
-### <a name="our">2. Our Contribution</a>
-### <a name="con">3. In Conclusion</a>
+### 3. In Conclusion<a name="con"></a>
 <ol>
  <li>Training any model on the augmented dataset (SMOTE) improves the model performance significantly.</li>
  <li>XGBoost wins by a small margin, based on shallow Decision Trees.</li>
