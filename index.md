@@ -52,7 +52,7 @@ seismoacoustic method;</li>
  <p align="center">
  <img src="https://user-images.githubusercontent.com/69084008/95684739-79959b80-0beb-11eb-80c4-6c5c05198ef1.png" alt="image"/>
  <br/>
-    <em>Figure 2: </em>
+    <em>Figure 2: Code Showing </em>
  </p>
 </ul>
 
