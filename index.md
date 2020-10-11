@@ -51,13 +51,13 @@ seismoacoustic method;</li>
  <p align="center">
  <img src="https://user-images.githubusercontent.com/69084008/95685532-5caf9700-0bf0-11eb-94d1-933a09980287.png" alt="image"/>
  <br/>
-    <em>Figure 2: Correlation Matrix</em>
+    <em>Figure 2: Original dataset shape Counter({0: 2414, 1: 170})</em>
  </p>
  <br/>
  <p align="center">
  <img src="https://user-images.githubusercontent.com/69084008/95685598-b0ba7b80-0bf0-11eb-857a-7d1858150f8b.png" alt="image"/>
  <br/>
-    <em>Figure 3: Correlation Matrix</em>
+    <em>Figure 3: Resampled dataset shape Counter({0: 1931, 1: 1931})</em>
  </p>
 </ul>
 
