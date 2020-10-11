@@ -32,7 +32,7 @@ Our shared colab notebook can be found <a href="https://colab.research.google.co
   <li><b>Seismoacoustic</b>: result of shift seismic hazard assessment in the mine working obtained by the
 seismoacoustic method;</li>
   <li><b>Shift</b>: information about type of a shift (W - coal-getting, N -preparation shift);</li>
- </ul>
+ </ul><br/>
  <li><b>Checking the Correlations between Features and the target</b></li>
  <br/>
  <p align="center">
