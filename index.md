@@ -8,8 +8,7 @@
 4. [Related Links](#related)<br/>
 
 <p>We are immensely grateful to  <a href="https://www.linkedin.com/in/nabanita-roy/">Nabanita Roy</a> for pointing out this very interesting dataset,her previous work formed the base for which we were able to build on, you can have a look here (<a href="https://www.linkedin.com/in/nabanita-roy/">Part 1</a> and <a href="https://www.linkedin.com/in/nabanita-roy/">Part 2</a>)!<br/>
-the Data Exploration, Data Preparation and first models and performance analysis as Medium articles with a linked notebook!
-The performance of those first models was very low for Recall: 0.06 the best performing model SVM with the raw dataset: this means that out of all the Actual Positive (hazardous) shifts, only 6% of the shifts have been predicted as Positive.
+Based on the Data Exploration, Data Preparation, First models and performance analysis carried out by Nabaita, with the raw dataset, the performance of the previous models were very low for Recall metric having just a 0.06 score for the best performing model SVM. This behaviour resulted in the conclusion that out of all the Actual Positive (hazardous) shifts, only 6% of the shifts have been predicted as Positive. Our focus was on improving this.
 </p>
 
 <a name="datas">__1. Data processing__</a><br/>
