@@ -59,6 +59,7 @@ seismoacoustic method;</li>
  <br/>
     <em>Figure 3: Resampled dataset shape Counter({0: 1931, 1: 1931})</em>
  </p>
+ <p>Interestingly, for discrete features like nBumps (the number of seismic bumps recorded within the previous shift), new rows have some non integers values!</p>
 </ul>
 
 
