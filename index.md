@@ -1,4 +1,4 @@
-<h1> Predicting Hazardous Seismic: Evaluating Scikit Learn Machine Learning models</h1>
+<h1> Predicting Hazardous Seismic: Evaluating Machine Learning models Using Scikit Learn </h1>
 <em>A newbie evaluation on trying out new Machine Learning models for Classification and Data Augmentation to support better results.</em>
 
 ## Contents:
