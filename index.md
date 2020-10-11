@@ -45,8 +45,10 @@ seismoacoustic method;</li>
  <img src="https://user-images.githubusercontent.com/69084008/95680839-409dfc80-0bd4-11eb-9dd7-3cf5567a2786.png" alt="image"/>
  <br/>
     <em>Figure 1: Correlation Matrix</em>
-</p>
+ </p>
 <br/>
+ <li><b>Augment data using Synthetic Minority Oversampling Technique (SMOTE).</b></li>
+ <p>The original data has a lot more Class 0 than Class 1 points which is obvious in the data visualisations and is likely to impact the performance of all models. As suggested by  <a href="https://www.linkedin.com/in/nabanita-roy/">Nabanita Roy</a> , we tried the Synthetic Minority Oversampling Technique (SMOTE) oversampling technique.</p>
 </ul>
 
 
