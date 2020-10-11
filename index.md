@@ -25,7 +25,7 @@ On the other hand, Precision for the best performing model is only 0.67, which m
 
 Our shared colab notebook can be found <a href="https://colab.research.google.com/drive/1fIvMom1iQUPN7K_ODtnq9Kb41ZfKH_xK#scrollTo=_25QD437NyrA"><em>here!</em></a><br/>
 
-<a name="our"><h3>__2. Our Contirbution__</h3></a>
+<a name="our"><h3>__2. Our Contribution__</h3></a>
 <ul>
  <li><b>Pre-processing the Data Further</b></li>
  <p>As a small improvement, we replaced the One-hot encoder for these Categorical variables with Numerical encoding as the assessment coding being graded from Low to High, coding numerically added meaningful information. To view the full data attributes, see <a href="https://archive.ics.uci.edu/ml/datasets/seismic-bumps">here.</a></p>
