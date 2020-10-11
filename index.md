@@ -36,7 +36,7 @@ Our shared colab notebook can be found <a href="https://colab.research.google.co
 seismoacoustic method;</li>
   <li><b>Shift</b>: information about type of a shift (W - coal-getting, N -preparation shift);</li>
  </ul>
- <p><ins>The encoding of these attributes was implemented by a simple mapping of the known values as seen in line <b>'put line number showing numerical encoding'</b>, this encoding allowed for easier interpretability as we will see later. It was also relevant for the plotting of the correlation matrix as unless attributes are numeric, they are completely ignored.<ins/></p>
+ <p><ins>The encoding of these attributes was implemented by a simple mapping of the known values as seen in line <b>'put line number showing numerical encoding'</b>of our <a href="https://colab.research.google.com/drive/1fIvMom1iQUPN7K_ODtnq9Kb41ZfKH_xK#scrollTo=_25QD437NyrA"><em>colab notebook</em></a>, this encoding allowed for easier interpretability as we will see later. It was also relevant for the plotting of the correlation matrix as unless attributes are numeric, they are completely ignored.<ins/></p>
  <br/>
  <li><b>Explanatory Data Analysis: Checking the Correlations between Features and the Target</b></li>
  <p> To depict the correlation of final features to the Target (Class), a  heatmap was implemented <em>(shown in Figure 1)</em>:
@@ -48,12 +48,7 @@ seismoacoustic method;</li>
  </p>
 <br/>
  <li><b>Augment data using Synthetic Minority Oversampling Technique (SMOTE).</b></li>
- <p>The original data has a lot more Class 0 than Class 1 points which is obvious in the data visualisations and is likely to impact the performance of all models. As suggested by  <a href="https://www.linkedin.com/in/nabanita-roy/">Nabanita Roy</a> , we tried the Synthetic Minority Oversampling Technique (SMOTE) oversampling technique.</p>
- <p align="center">
- <img src="https://user-images.githubusercontent.com/69084008/95684739-79959b80-0beb-11eb-80c4-6c5c05198ef1.png" alt="image"/>
- <br/>
-    <em>Figure 2: Code Showing </em>
- </p>
+ <p>The original data has a lot more Class 0 than Class 1 points which is obvious in the data visualisations and is likely to impact the performance of all models. As suggested by  <a href="https://www.linkedin.com/in/nabanita-roy/">Nabanita Roy</a> , we tried the Synthetic Minority Oversampling Technique (SMOTE) oversampling technique as seen in line <b>'put line number showing numerical encoding'</b>of our <a href="https://colab.research.google.com/drive/1fIvMom1iQUPN7K_ODtnq9Kb41ZfKH_xK#scrollTo=_25QD437NyrA"><em>colab notebook</em></a>
 </ul>
 
 
