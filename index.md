@@ -25,10 +25,13 @@ Our shared colab notebook can be found <a href="https://colab.research.google.co
 <a name="our"><h3>__2. Our Contirbution__</h3></a>
 <ul>
  <li><b>Pre-processing the Data Further</b></li>
- <p>As a small improvement, we replaced the One-hot encoder for the Categorical variables with Numerical encoding as the assessment coding being graded from Low to High, coding numerically added meaningful information. To view the data attributes, see <a href="https://archive.ics.uci.edu/ml/datasets/seismic-bumps">here.</a></p>
+ <p>As a small improvement, we replaced the One-hot encoder for these Categorical variables with Numerical encoding as the assessment coding being graded from Low to High, coding numerically added meaningful information. To view the full data attributes, see <a href="https://archive.ics.uci.edu/ml/datasets/seismic-bumps">here.</a></p>
  <ul>
   <li><b>Seismic</b>: result of shift seismic hazard assessment in the mine working obtained by the seismic
    method (<b>a - lack of hazard, b - low hazard, c - high hazard, d - danger state</b>);</li>
+  <li><b>Seismoacoustic</b>: result of shift seismic hazard assessment in the mine working obtained by the
+seismoacoustic method;</li>
+  <li><b>Shift</b>: information about type of a shift (W - coal-getting, N -preparation shift);</li>
  </ul>
 </ul>
 
