@@ -51,6 +51,11 @@ seismoacoustic method;</li>
 <a name="con"><h3>__3. In Conclusion__</h3></a>
 
 <a name="ref"><h3>__4. References__</h3></a>
+<ol>
+ <li>Introduction to Scikit Learn:<a href="https://scikit-learn.org/stable/supervised_learning.html#supervised-learning"><b>Understanding Classification Models for Supervised Machine Learning</b></li></li>
+ <li>To Understand the feature data (data types, missing values, outliers, etc): see-<a href="https://towardsdatascience.com/predicting-hazardous-seismic-bumps-using-supervised-classification-algorithms-part-i-2c5d21f379bc"> <b>Data Exploration and Peparation</b></li>
+ <li>Visualization (boxplots, scatter plots, correlation matrix, etc)- see<a href="https://towardsdatascience.com/predicting-hazardous-seismic-bumps-using-supervised-classification-algorithms-part-i-2c5d21f379bc"> <b> Data Exploration and Peparation</b></li>
+</ol>
 
 
 <a name="contributor"><h3>__5. Contributors__</h3></a>
