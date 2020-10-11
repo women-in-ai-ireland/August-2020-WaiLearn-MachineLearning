@@ -51,6 +51,8 @@ seismoacoustic method;</li>
  <p>The original data has a lot more Class 0 than Class 1 points which is obvious in the data visualisations and is likely to impact the performance of all models. As suggested by  <a href="https://www.linkedin.com/in/nabanita-roy/">Nabanita Roy</a> , we tried the Synthetic Minority Oversampling Technique (SMOTE) oversampling technique.</p>
  <p align="center">
  <img src="https://user-images.githubusercontent.com/69084008/95684739-79959b80-0beb-11eb-80c4-6c5c05198ef1.png" alt="image"/>
+ <br/>
+    <em>Figure 2: </em>
  </p>
 </ul>
 
