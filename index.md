@@ -14,7 +14,7 @@
  
 Based on the data exploration and performance analysis carried out by Nabanita, the performance of the previous models were very low for the <b>recall metric</b> having just a 0.06 score for the best performing model <b>SVM</b>. This behaviour resulted in the conclusion that out of all the Actual Positive (hazardous) shifts, only 6% of the shifts have been predicted as Positive. Our focus was on improving this.</p><br/>
 
-<a name="pre">### 1. Premise</a>
+### <a name="pre">1. Premise</a>
 Predicting Positive here is predicting <em>“ the possibility of hazardous situation occurrence, where an appropriate supervision service can reduce a risk of rockburst (e.g. by distressing shooting) or withdraw workers from the threatened area. Good prediction of increased seismic activity is therefore a matter of great practical importance. “</em><br/>
 
 <b>We wouldn’t want to send miners into a mine with a substandard model!</b>
