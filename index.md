@@ -3,7 +3,7 @@
 
 ## Contents:
 1. [Premise](#pre)<br/>
-2. [Our Contirbution](#our)<br/>
+2. [Our Contribution](#our)<br/>
 3. [In Conclusion](#con)<br/>
 4. [What we have Learn](#learnt)<br/>
 5. [Refrences](#ref)<br/>
