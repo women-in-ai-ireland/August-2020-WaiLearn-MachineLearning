@@ -65,29 +65,26 @@ seismoacoustic method;</li>
  <br/>
     <em>Figure 3: Resampled dataset shape Counter({0: 1931, 1: 1931})</em>
  </p>
- <p>Interestingly, for discrete features like nBumps (the number of seismic bumps recorded within the previous shift), new rows have some non integers values!</p>
-<br/>
+ <p>Interestingly, for discrete features like nBumps (the number of seismic bumps recorded within the previous shift), new rows have some non integers values!</p><br/>
 
 ### <a name="con">3. In Conclusion</a>
 <ol>
  <li>Training any model on the augmented dataset (SMOTE) improves the model performance significantly.</li>
  <li>XGBoost wins by a small margin, based on shallow Decision Trees.</li>
  <li>The RandomForestClassifier and Decision Tree Classifier are perform well, although not with the GridSearchCV Optimised version! It seems like optimising against the SMOTE dataset can be counter-productive and choosing values like max_leaf_nodes=10 intuitively adapted to a small dataset works here.</li>
-</ol>
-<br/>
+</ol><br/>
 
 ### <a name="learnt">4. What we have Learnt</a>
 
 <br/>
 
-### <a name="ref">5. References</a><br/>
+### <a name="ref">5. References</a>
 <ol>
  <li>Introduction to Scikit Learn:<a href="https://scikit-learn.org/stable/supervised_learning.html#supervised-learning">Understanding Classification Models for Supervised Machine Learning</a></li>
  <li><a href="https://medium.com/@MohammedS/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b">To Understand Model Performance Metrics</a></li>
  <li>To Understand the feature data (data types, missing values, outliers, etc): see-<a href="https://towardsdatascience.com/predicting-hazardous-seismic-bumps-using-supervised-classification-algorithms-part-i-2c5d21f379bc">Data Exploration and Peparation</a></li>
  <li>Visualization (boxplots, scatter plots, correlation matrix, etc)- see<a href="https://towardsdatascience.com/predicting-hazardous-seismic-bumps-using-supervised-classification-algorithms-part-i-2c5d21f379bc"> Data Exploration and Peparation</a></li>
-</ol>
-<br/>
+</ol><br/>
 
 ### <a name="contributor">6. Contributors</a>
 <ul>
