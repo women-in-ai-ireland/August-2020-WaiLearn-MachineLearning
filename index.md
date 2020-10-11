@@ -66,11 +66,10 @@ Should the login fail despite the successful setup of the fingerprint or face re
 
 
 <a name="contact"><h3>__3. Contributors__</h3></a>
-You can contact us via:
 <ul>
-  <li><a href="Cath709@gmail.com">Catherine Lalanne</a></li>
-  <li><a href="hxxjxn65@gmail.com">Heejin Yoon</a></li>
-  <li><a href="Omotolaniazubuike@gmail.com">Luciana Azubuike</a></li>
+  <li><a href="https://www.linkedin.com/in/catherine-lalanne-85b5ba/">Catherine Lalanne</a></li>
+  <li><a href="https://www.linkedin.com/in/heejin-yoon-429837190/">Heejin Yoon</a></li>
+  <li><a href="https://www.linkedin.com/in/i-am-luciana-azubuike/">Luciana Azubuike</a></li>
 </ul>
 <br/>
 
