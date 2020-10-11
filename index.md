@@ -23,7 +23,7 @@ On the other hand, Precision for the best performing model is only 0.67, which m
 
 Our shared colab notebook can be found <a href="https://colab.research.google.com/drive/1fIvMom1iQUPN7K_ODtnq9Kb41ZfKH_xK#scrollTo=_25QD437NyrA"><em>here!</em></a><br/>
 
-### <a name="our">2. Our Contribution</a><br/>
+### <a name="our">2. Our Contribution</a>
 <ul>
  <li><b>Pre-processing the Data Further</b></li>
  <p>As a small improvement, we replaced the One-hot encoder for these Categorical variables with Numerical encoding as the assessment coding being graded from Low to High, coding numerically added meaningful information. To view the full data attributes, see <a href="https://archive.ics.uci.edu/ml/datasets/seismic-bumps">here.</a></p>
@@ -66,15 +66,19 @@ seismoacoustic method;</li>
     <em>Figure 3: Resampled dataset shape Counter({0: 1931, 1: 1931})</em>
  </p>
  <p>Interestingly, for discrete features like nBumps (the number of seismic bumps recorded within the previous shift), new rows have some non integers values!</p>
+<br/>
 
-### <a name="con">3. In Conclusion</a><br/>
+### <a name="con">3. In Conclusion</a>
 <ol>
  <li>Training any model on the augmented dataset (SMOTE) improves the model performance significantly.</li>
  <li>XGBoost wins by a small margin, based on shallow Decision Trees.</li>
  <li>The RandomForestClassifier and Decision Tree Classifier are perform well, although not with the GridSearchCV Optimised version! It seems like optimising against the SMOTE dataset can be counter-productive and choosing values like max_leaf_nodes=10 intuitively adapted to a small dataset works here.</li>
 </ol>
+<br/>
 
-### <a name="learnt">4. What we have Learnt</a><br/>
+### <a name="learnt">4. What we have Learnt</a>
+
+<br/>
 
 ### <a name="ref">5. References</a><br/>
 <ol>
@@ -83,9 +87,9 @@ seismoacoustic method;</li>
  <li>To Understand the feature data (data types, missing values, outliers, etc): see-<a href="https://towardsdatascience.com/predicting-hazardous-seismic-bumps-using-supervised-classification-algorithms-part-i-2c5d21f379bc">Data Exploration and Peparation</a></li>
  <li>Visualization (boxplots, scatter plots, correlation matrix, etc)- see<a href="https://towardsdatascience.com/predicting-hazardous-seismic-bumps-using-supervised-classification-algorithms-part-i-2c5d21f379bc"> Data Exploration and Peparation</a></li>
 </ol>
+<br/>
 
-
-### <a name="contributor">6. Contributors</a><br/>
+### <a name="contributor">6. Contributors</a>
 <ul>
   <li><a href="https://www.linkedin.com/in/catherine-lalanne-85b5ba/">Catherine Lalanne</a></li>
   <li><a href="https://www.linkedin.com/in/heejin-yoon-429837190/">Heejin Yoon</a></li>
