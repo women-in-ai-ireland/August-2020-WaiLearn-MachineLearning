@@ -34,7 +34,9 @@ Our shared colab notebook can be found <a href="https://colab.research.google.co
 seismoacoustic method;</li>
   <li><b>Shift</b>: information about type of a shift (W - coal-getting, N -preparation shift);</li>
  </ul>
+ <p>
  <ins>The encoding of these attributes was implemented by a simple mapping of the known values as seen in line <b>'put line number showing numerical encoding'</b> of our <a href="https://colab.research.google.com/drive/1fIvMom1iQUPN7K_ODtnq9Kb41ZfKH_xK#scrollTo=_25QD437NyrA"><em>colab notebook</em></a>, this encoding allowed for easier interpretability as we will see later. It was also relevant for the plotting of the correlation matrix as unless attributes are numeric, they are completely ignored.<ins/>
+</p>
  <br/>
  <li><b>Explanatory Data Analysis: Checking the Correlations between Features and the Target</b></li>
  <p> To depict the correlation of final features to the Target (Class), a  heatmap was implemented <em>(shown in Figure 1)</em>:
