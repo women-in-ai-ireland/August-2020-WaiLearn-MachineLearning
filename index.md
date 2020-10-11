@@ -14,7 +14,7 @@ Based on the data exploration and performance analysis carried out by Nabanita, 
 </p>
 <br/>
 
-<a name="pre">__1. Premise__</a><br/>
+##<a name="pre">__1. Premise__</a><br/>
 Predicting Positive here is predicting <em>“ the possibility of hazardous situation occurrence, where an appropriate supervision service can reduce a risk of rockburst (e.g. by distressing shooting) or withdraw workers from the threatened area. Good prediction of increased seismic activity is therefore a matter of great practical importance. “</em><br/>
 
 <b>We wouldn’t want to send miners into a mine with a substandard model!</b>
@@ -24,7 +24,7 @@ On the other hand, Precision for the best performing model is only 0.67, which m
 Our shared colab notebook can be found <a href="https://colab.research.google.com/drive/1fIvMom1iQUPN7K_ODtnq9Kb41ZfKH_xK#scrollTo=_25QD437NyrA"><em>here!</em></a>
 
 
-<a name="our">__2. Our Contirbution__</a><br/>
+##<a name="our">__2. Our Contirbution__</a><br/>
 
 <ins>All biometrical data you provide will be stored locally and encrypted on your device and will not be synchronized anywhere.<ins/>
 
