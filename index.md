@@ -4,9 +4,7 @@
 ## Contents:
 1. [Premise](#pre)<br/>
 1. [Our Contirbution](#our)<br/>
-2. [Modelling](#setup)<br/>
 3. [Contributors](#contact)<br/>
-4. [Related Links](#related)<br/>
 
 <br/>
 <p>We are immensely grateful to  <a href="https://www.linkedin.com/in/nabanita-roy/">Nabanita Roy</a> for pointing out this very interesting dataset,her previous work formed the base for which we were able to build on, you can have a look at her work here (<a href="https://www.linkedin.com/in/nabanita-roy/">Part 1</a> and <a href="https://www.linkedin.com/in/nabanita-roy/">Part 2</a>)!<br/>
@@ -32,8 +30,6 @@ Our shared colab notebook can be found <a href="https://colab.research.google.co
 
 <ins>All biometrical data you provide will be stored locally and encrypted on your device and will not be synchronized anywhere.<ins/>
 
-
-<a name="setup">__2. Modelling__</a><br/>
 
 Descriptions <b>"Descriptions "</b> Descriptions <b>"Descriptions"</b> - <b>"Descriptions "</b> - <b>"Sign-in options"</b> Model <b>ML</b>. 
 Model<b>Bumps</b>Description<ins>ML<ins/> and <ins>ML<ins/> <em>(Figure Number)</em>.
@@ -73,9 +69,3 @@ Should the login fail despite the successful setup of the fingerprint or face re
 </ul>
 <br/>
 
-<details>
-<summary><a name="related"><strong>4. Related Links</strong></a></summary>
-<br/>
-<a href="Link to notbook Part1">Title</a><br/>
-<a href="Link to notebook Part 2">title 2</a><br/>
-</details>
