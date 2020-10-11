@@ -4,7 +4,7 @@
 ## Contents:
 1. [Premise](#pre)<br/>
 1. [Our Contirbution](#our)<br/>
-3. [Contributors](#contact)<br/>
+3. [Contributors](#contributor)<br/>
 
 <br/>
 <p>We are immensely grateful to  <a href="https://www.linkedin.com/in/nabanita-roy/">Nabanita Roy</a> for pointing out this very interesting dataset,her previous work formed the base for which we were able to build on, you can have a look at her work here (<a href="https://www.linkedin.com/in/nabanita-roy/">Part 1</a> and <a href="https://www.linkedin.com/in/nabanita-roy/">Part 2</a>)!<br/>
@@ -46,7 +46,7 @@ seismoacoustic method;</li>
 <br/>
 
 
-<a name="contact"><h3>__3. Contributors__</h3></a>
+<a name="contributor"><h3>__3. Contributors__</h3></a>
 <ul>
   <li><a href="https://www.linkedin.com/in/catherine-lalanne-85b5ba/">Catherine Lalanne</a></li>
   <li><a href="https://www.linkedin.com/in/heejin-yoon-429837190/">Heejin Yoon</a></li>
