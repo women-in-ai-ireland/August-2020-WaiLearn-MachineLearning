@@ -75,13 +75,10 @@ seismoacoustic method;</li>
 </p>
 <br/>
 <ul>
- <li>Model Test Results</li>
+ <li><b>Model Test Results</b></li>
  <p>With the numerical encoding for the Categorical variables, we get the following results:</p>
 </ul>
-<p align="center">
- <img src="https://user-images.githubusercontent.com/69084008/96312506-a8ed4380-1003-11eb-83ea-f846163c4c48.png" alt="image"/>
- <br/>
-</p>
+
 
 ### <a name="con"> 3. In Conclusion</a>
 <ol>
