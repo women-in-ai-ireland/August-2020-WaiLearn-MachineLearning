@@ -65,6 +65,7 @@ seismoacoustic method;</li>
     <em>Figure 3: Resampled dataset shape Counter({0: 1931, 1: 1931})</em>
  </p>
  <p>Interestingly, for discrete features like nBumps (the number of seismic bumps recorded within the previous shift), new rows have some non integers values!</p><br/>
+<p>Interestingly, for discrete features like nBumps (the number of seismic bumps recorded within the previous shift), new rows have some non integers values!<p/>
 
 ### <a name="con"> 3. In Conclusion</a>
 <ol>
@@ -72,6 +73,7 @@ seismoacoustic method;</li>
  <li>XGBoost wins by a small margin, based on shallow Decision Trees.</li>
  <li>The RandomForestClassifier and Decision Tree Classifier are perform well, although not with the GridSearchCV Optimised version! It seems like optimising against the SMOTE dataset can be counter-productive and choosing values like max_leaf_nodes=10 intuitively adapted to a small dataset works here.</li>
 </ol><br/>
+
 
 ### <a name="learnt">4. What we have Learnt</a>
 
