@@ -82,6 +82,11 @@ seismoacoustic method;</li>
  <img src="https://user-images.githubusercontent.com/69084008/96334222-fe0e7100-1066-11eb-9c29-2de514f1ac3f.png" alt="image"/>
  <br/>
 </p>
+<p><b>Note, with the previous One Hot encoders, we got slightly worse results:</b></p><br/>
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/69084008/96334289-855be480-1067-11eb-886d-352bd654b0d9.png" alt="image"/>
+ <br/>
+</p>
 
 
 ### <a name="con"> 3. In Conclusion</a>
