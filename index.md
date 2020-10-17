@@ -129,7 +129,7 @@ seismoacoustic method;</li>
  <li><a href="https://medium.com/@MohammedS/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b">To Understand Model Performance Metrics</a></li>
  <li>To Understand the feature data (data types, missing values, outliers, etc): see-<a href="https://towardsdatascience.com/predicting-hazardous-seismic-bumps-using-supervised-classification-algorithms-part-i-2c5d21f379bc">Data Exploration and Peparation</a></li>
  <li>Visualization (boxplots, scatter plots, correlation matrix, etc)- see<a href="https://towardsdatascience.com/predicting-hazardous-seismic-bumps-using-supervised-classification-algorithms-part-i-2c5d21f379bc"> Data Exploration and Peparation</a></li>
-</ol><br/>
+</ol>
 
 ### <a name="contributor">6. Contributors</a>
 <ul>
