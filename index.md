@@ -88,7 +88,7 @@ seismoacoustic method;</li>
  <br/>
 </p>
 <p>The results contained in the images are ordered by f1-score, so as to try and make a good compromise between Recall and Accuracy, however if Recall is the most crucial criteria the order would have been slightly changed.</p><br/>
-<p>Note that the Test set was quite small, as the full raw dataset is quite small: 2584 rows x 16 features. Sor for some of the Top performing results:</p><br/>
+<p>Note that the Test set was quite small, as the full raw dataset is quite small: 2584 rows x 16 features. Sor for some of the Top performing results:</p>
 <ul>
  <li>When the RFC SMOTE max_leaf_nodes=10 Confusion Matrix has the top Recall score at: 20 / (20 + 14) = 0.59:</li>
  <ul>
