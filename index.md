@@ -114,7 +114,6 @@ seismoacoustic method;</li>
  <li>In this case, it is recommended to look at the top performing models with feature importance support, as well as the best simple Decision Tree.</li>
  <li> From plotting the feature importances to get more information for feature selection, Nbumps (the number of seismic bumps recorded within the previous shift) is understandably a good predictor for hazard in the current shift, as well as nbumps2 (the number of seismic bumps in energy range [10^2,10^3]) registered within the previous shift).</li>
 </ul>
-<br/>
 
 ### <a name="fw">4. Future Work</a>
 <p>Going forward, we recommend further improving the obtained results by doing the followig:</p>
