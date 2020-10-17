@@ -87,7 +87,7 @@ seismoacoustic method;</li>
  <img src="https://user-images.githubusercontent.com/69084008/96334289-855be480-1067-11eb-886d-352bd654b0d9.png" alt="image"/>
  <br/>
 </p>
-<p>The results contained in the images are ordered by f1-score, so as to try and make a good compromise between Recall and Accuracy, however if Recall is the most crucial criteria the order would have slightly changed.</p><br/>
+<p>The results contained in the images are ordered by f1-score, so as to try and make a good compromise between Recall and Accuracy, however if Recall is the most crucial criteria the order would have been slightly changed.</p><br/>
 
 
 
