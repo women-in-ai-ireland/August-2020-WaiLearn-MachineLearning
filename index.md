@@ -4,11 +4,10 @@
 ## Contents:
 1. [Premise](#pre)<br/>
 2. [Our Contribution](#our)<br/>
-3. [In Conclusion](#con)<br/>
+3. [Our Conclusion/What we have Learnt](#con)<br/>
 4. [What we have Learn](#learnt)<br/>
-5. [Future Work](#fw)<br/>
-6. [Refrences](#ref)<br/>
-7. [Contributors](#contributor)<br/>
+5. [Refrences](#ref)<br/>
+6. [Contributors](#contributor)<br/>
 
 <br/>
 <p>We are immensely grateful to  <a href="https://www.linkedin.com/in/nabanita-roy/">Nabanita Roy</a> for pointing out this very interesting dataset,her previous work formed the base for which we were able to build on, you can have a look at her work here (<a href="https://towardsdatascience.com/predicting-hazardous-seismic-bumps-using-supervised-classification-algorithms-part-i-2c5d21f379bc">Part I</a> and <a href="https://towardsdatascience.com/predicting-hazardous-seismic-bumps-part-ii-training-supervised-classifier-models-and-8b9104b611b0">Part II</a>)!<br/>
@@ -90,21 +89,19 @@ seismoacoustic method;</li>
 </p>
 
 
-### <a name="con"> 3. In Conclusion</a>
+
+### <a name="con"> 3. Our Conclusion/What we have Learnt</a>
 <ol>
  <li>Training any model on the augmented dataset (SMOTE) improves the model performance significantly.</li>
  <li>XGBoost wins by a small margin, based on shallow Decision Trees.</li>
  <li>The RandomForestClassifier and Decision Tree Classifier are perform well, although not with the GridSearchCV Optimised version! It seems like optimising against the SMOTE dataset can be counter-productive and choosing values like max_leaf_nodes=10 intuitively adapted to a small dataset works here.</li>
 </ol><br/>
 
-
-### <a name="learnt">4. What we have Learnt</a>
+### <a name="fw">4. Future Work</a>
 
 <br/>
 
-### <a name="fw">5. Future Work</a>
-
-### <a name="ref">6. References</a>
+### <a name="ref">5. References</a>
 <ol>
  <li>Introduction to Scikit Learn:<a href="https://scikit-learn.org/stable/supervised_learning.html#supervised-learning">Understanding Classification Models for Supervised Machine Learning</a></li>
  <li><a href="https://medium.com/@MohammedS/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b">To Understand Model Performance Metrics</a></li>
@@ -112,7 +109,7 @@ seismoacoustic method;</li>
  <li>Visualization (boxplots, scatter plots, correlation matrix, etc)- see<a href="https://towardsdatascience.com/predicting-hazardous-seismic-bumps-using-supervised-classification-algorithms-part-i-2c5d21f379bc"> Data Exploration and Peparation</a></li>
 </ol><br/>
 
-### <a name="contributor">7. Contributors</a>
+### <a name="contributor">6. Contributors</a>
 <ul>
   <li><a href="https://www.linkedin.com/in/catherine-lalanne-85b5ba/">Catherine Lalanne</a></li>
   <li><a href="https://www.linkedin.com/in/heejin-yoon-429837190/">Heejin Yoon</a></li>
