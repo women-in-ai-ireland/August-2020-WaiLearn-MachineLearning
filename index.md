@@ -120,7 +120,7 @@ seismoacoustic method;</li>
 <p>Going forward, we recommend further improving the obtained results by doing the followig:</p>
 <ul>
  <li>Testing more esemble machine learning models.</li>
- <li>Investigate further to validate a number of assumptions about which metrics is most important, why does there seem to be a correlation between the Shift type and the hazard Classification, could that be data leakage? There is a need to talk directly to the users.</li>
+ <li>Investigating further to validate a number of assumptions about which metrics is most important, why does there seem to be a correlation between the Shift type and the hazard Classification, could that be data leakage? There is a need to talk directly to the users.</li>
 </ul>
 
 ### <a name="ref">5. References</a>
