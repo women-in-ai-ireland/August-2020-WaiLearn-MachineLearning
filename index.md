@@ -79,12 +79,12 @@ seismoacoustic method;</li>
  <p>With the numerical encoding for the Categorical variables, we get the following results:</p>
 </ul>
 <p align="center">
- <img src="https://user-images.githubusercontent.com/69084008/96334222-fe0e7100-1066-11eb-9c29-2de514f1ac3f.png" alt="image"/>
+ <img src="https://user-images.githubusercontent.com/69084008/96335818-24d2a480-1073-11eb-9648-d0bbc14f5912.png" alt="image"/>
  <br/>
 </p>
 <p><b>Note, with the previous One Hot encoders, we got slightly worse results:</b></p><br/>
 <p align="center">
- <img src="https://user-images.githubusercontent.com/69084008/96334289-855be480-1067-11eb-886d-352bd654b0d9.png" alt="image"/>
+ <img src="https://user-images.githubusercontent.com/69084008/96335843-521f5280-1073-11eb-93bd-06fd9ec444d5.png" alt="image"/>
  <br/>
 </p>
 <p>The results contained in the images are ordered by f1-score, so as to try and make a good compromise between Recall and Accuracy, however if Recall is the most crucial criteria the order would have been slightly changed.</p>
