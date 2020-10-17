@@ -113,9 +113,8 @@ seismoacoustic method;</li>
  <li>In this case, it is recommended to look at the top performing models with feature importance support, as well as the best simple Decision Tree.</li>
 </ol>
 <p align="center">
- <img src="https://user-images.githubusercontent.com/69084008/95685532-5caf9700-0bf0-11eb-94d1-933a09980287.png" alt="image"/>
+ <img src="https://user-images.githubusercontent.com/69084008/96335456-a83ec680-1070-11eb-924c-e0663395ee9d.png" alt="image"/>
 <br/>
- <em>Figure 2: Original dataset shape Counter({0: 2414, 1: 170})</em>
 </p>
 <br/>
 
