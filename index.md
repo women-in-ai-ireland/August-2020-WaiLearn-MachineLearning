@@ -19,7 +19,7 @@ Predicting Positive here is predicting <em>“ the possibility of hazardous situ
 
 <b>We wouldn’t want to send miners into a mine with a substandard model!</b>
 
-On the other hand, Precision for the best performing model is only 0.67, which means that out of all the shifts predicted as hazardous, (1 - 0.67) = 23% were actually low risk, which would mean a non insignificant number of shifts where miners may have been told to stay home, and thus a lower productivity.  
+On the other hand, Precision for the best performing model is only <b>0.67</b>, which means that out of all the shifts predicted as hazardous, <b>(1 - 0.67) = 23%</b> were actually low risk, which would mean a non insignificant number of shifts where miners may have been told to stay home, and thus a lower productivity.  
 
 Our shared implementation notebook can be found <a href="New Link"><em>here!</em></a><br/>
 
