@@ -112,10 +112,6 @@ seismoacoustic method;</li>
  <li>Some models like <b>random forest and XGBoost</b> expose the Feature Importance’s which are great both to inform feature selection and checking for data leakage, as well as getting feedback and trust from the customer;</li>
  <li>In this case, it is recommended to look at the top performing models with feature importance support, as well as the best simple Decision Tree.</li>
 </ol>
-<p align="center">
- <img src="https://user-images.githubusercontent.com/69084008/96335456-a83ec680-1070-11eb-924c-e0663395ee9d.png" alt="image"/>
-<br/>
-</p>
 <br/>
 
 ### <a name="fw">4. Future Work</a>
