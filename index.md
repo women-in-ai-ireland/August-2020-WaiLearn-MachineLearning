@@ -111,7 +111,13 @@ seismoacoustic method;</li>
  <li>The RandomForestClassifier and Decision Tree Classifier are perform well, although not with the GridSearchCV Optimised version! It seems like optimising against the SMOTE dataset can be counter-productive and choosing values like max_leaf_nodes=10 intuitively adapted to a small dataset works here.</li>
  <li>Some models like <b>random forest and XGBoost</b> expose the Feature Importance’s which are great both to inform feature selection and checking for data leakage, as well as getting feedback and trust from the customer;</li>
  <li>In this case, it is recommended to look at the top performing models with feature importance support, as well as the best simple Decision Tree.</li>
-</ol><br/>
+</ol>
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/69084008/95685532-5caf9700-0bf0-11eb-94d1-933a09980287.png" alt="image"/>
+<br/>
+ <em>Figure 2: Original dataset shape Counter({0: 2414, 1: 170})</em>
+</p>
+<br/>
 
 ### <a name="fw">4. Future Work</a>
 
