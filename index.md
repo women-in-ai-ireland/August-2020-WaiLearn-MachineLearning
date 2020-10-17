@@ -109,6 +109,8 @@ seismoacoustic method;</li>
  <li>Training any model on the augmented dataset (SMOTE) improves the model performance significantly.</li>
  <li>XGBoost wins by a small margin, based on shallow Decision Trees.</li>
  <li>The RandomForestClassifier and Decision Tree Classifier are perform well, although not with the GridSearchCV Optimised version! It seems like optimising against the SMOTE dataset can be counter-productive and choosing values like max_leaf_nodes=10 intuitively adapted to a small dataset works here.</li>
+ <li>Some models expose the Feature Importance’s which are great both to inform feature selection and checking for data leakage, as well as getting feedback and trust from the customer;</li>
+ <li>In this case, it is recommended to look at the top performing models with feature importance support, as well as the best simple Decision Tree.</li>
 </ol><br/>
 
 ### <a name="fw">4. Future Work</a>
