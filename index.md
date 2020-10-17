@@ -5,7 +5,7 @@
 1. [Premise](#pre)<br/>
 2. [Our Contribution](#our)<br/>
 3. [Our Conclusion/What we have Learnt](#con)<br/>
-4. [What we have Learn](#learnt)<br/>
+4. [Future Work](#fw)<br/>
 5. [Refrences](#ref)<br/>
 6. [Contributors](#contributor)<br/>
 
